@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dashboard-react/static/css/main.2b6f8fdd.chunk.css",
+    "main.js": "/dashboard-react/static/js/main.94b2f996.chunk.js",
+    "main.js.map": "/dashboard-react/static/js/main.94b2f996.chunk.js.map",
+    "runtime-main.js": "/dashboard-react/static/js/runtime-main.16e88ddb.js",
+    "runtime-main.js.map": "/dashboard-react/static/js/runtime-main.16e88ddb.js.map",
+    "static/css/2.e4246e4e.chunk.css": "/dashboard-react/static/css/2.e4246e4e.chunk.css",
+    "static/js/2.970dc533.chunk.js": "/dashboard-react/static/js/2.970dc533.chunk.js",
+    "static/js/2.970dc533.chunk.js.map": "/dashboard-react/static/js/2.970dc533.chunk.js.map",
+    "static/js/3.f792ffa4.chunk.js": "/dashboard-react/static/js/3.f792ffa4.chunk.js",
+    "static/js/3.f792ffa4.chunk.js.map": "/dashboard-react/static/js/3.f792ffa4.chunk.js.map",
+    "index.html": "/dashboard-react/index.html",
+    "static/css/2.e4246e4e.chunk.css.map": "/dashboard-react/static/css/2.e4246e4e.chunk.css.map",
+    "static/css/main.2b6f8fdd.chunk.css.map": "/dashboard-react/static/css/main.2b6f8fdd.chunk.css.map",
+    "static/js/2.970dc533.chunk.js.LICENSE.txt": "/dashboard-react/static/js/2.970dc533.chunk.js.LICENSE.txt",
+    "static/media/gmail.1e7d6548.jpg": "/dashboard-react/static/media/gmail.1e7d6548.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16e88ddb.js",
+    "static/css/2.e4246e4e.chunk.css",
+    "static/js/2.970dc533.chunk.js",
+    "static/css/main.2b6f8fdd.chunk.css",
+    "static/js/main.94b2f996.chunk.js"
+  ]
+}
